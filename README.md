@@ -1,0 +1,1 @@
+# Research-on-Robustness-Enhancement-Strategies-for-Multi-Modal-Gait-Recognition-in-Open-Scenarios
